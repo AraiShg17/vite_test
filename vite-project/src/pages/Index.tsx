@@ -26,8 +26,8 @@ function Index() {
         </div>
         <Title title={"template"} size={"xl"} status={"primary"} />
         <p className={styles.readTheDocs}>
-          A template using vite with react, jest, storybook, scss, and css
-          modules.
+          A template using vite with react, jest, storybook, type script, scss,
+          and css modules.
         </p>
       </div>
     </>
