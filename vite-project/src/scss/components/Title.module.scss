@@ -1,0 +1,50 @@
+.title {
+  margin: 0;
+}
+
+/* Size */
+.xs {
+  font-size: 12px;
+}
+.s {
+  font-size: 16px;
+}
+.m {
+  font-size: 20px;
+}
+.l {
+  font-size: 24px;
+}
+.xl {
+  font-size: 32px;
+}
+
+/* Status */
+.default {
+  color: #333;
+}
+
+.primary {
+  color: #007bff;
+}
+
+.success {
+  color: #28a745;
+}
+
+.info {
+  color: #17a2b8;
+}
+
+.warning {
+  color: #ffc107;
+}
+
+.error {
+  color: #dc3545;
+}
+
+.disabled {
+  color: #6c757d;
+}
+
