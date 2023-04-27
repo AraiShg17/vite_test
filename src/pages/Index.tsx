@@ -1,4 +1,3 @@
-import { useState } from "react";
 import reactLogo from "../assets/react.svg";
 import viteLogo from "../assets/vite.svg";
 import styles from "../scss/page/Index.module.scss";
@@ -6,9 +5,6 @@ import styles from "../scss/page/Index.module.scss";
 import Title from "../components/title/Title";
 
 function Index() {
-  console.log(styles.card);
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <div className={styles.root}>
